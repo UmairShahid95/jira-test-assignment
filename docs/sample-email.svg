@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f5f7fa" />
+  <rect width="1200" height="120" fill="#3a506b" />
+  <text x="50" y="75" font-family="'DejaVu Sans', Arial, sans-serif" font-size="48" fill="#ffffff">Inbox - Project Lead</text>
+  <rect x="70" y="170" width="1060" height="470" fill="#ffffff" stroke="#d1d9e0" stroke-width="4" rx="12" />
+  <text x="110" y="230" font-family="'DejaVu Sans', Arial, sans-serif" font-size="28" fill="#457b9d">From: Scalable Capital Reports</text>
+  <text x="110" y="270" font-family="'DejaVu Sans', Arial, sans-serif" font-size="28" fill="#212529">Subject: Weekly Jira Report for SCAL (2024-06-03 - 2024-06-10)</text>
+  <text x="110" y="320" font-family="'DejaVu Sans', Arial, sans-serif" font-size="26" fill="#212529">Hi Alex,</text>
+  <text x="110" y="360" font-family="'DejaVu Sans', Arial, sans-serif" font-size="22" fill="#212529">Here is the weekly summary for SCAL:</text>
+  <text x="130" y="400" font-family="'DejaVu Sans', Arial, sans-serif" font-size="22" fill="#212529">• Issues created: 12</text>
+  <text x="130" y="435" font-family="'DejaVu Sans', Arial, sans-serif" font-size="22" fill="#212529">• Issues resolved: 9</text>
+  <text x="130" y="470" font-family="'DejaVu Sans', Arial, sans-serif" font-size="22" fill="#212529">• Issues currently open: 5</text>
+  <text x="110" y="520" font-family="'DejaVu Sans', Arial, sans-serif" font-size="22" fill="#212529">Issue Links:</text>
+  <text x="130" y="555" font-family="'DejaVu Sans', Arial, sans-serif" font-size="20" fill="#1d3557">SCAL-123 • SCAL-118 • SCAL-117 • SCAL-110</text>
+</svg>
